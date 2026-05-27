@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authprocess",
+        "uuid": 11466752,
+        "checksum": "4awl7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
